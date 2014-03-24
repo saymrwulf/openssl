@@ -6,3 +6,4 @@
 2014-01-17T21:06:00 - Minor doc updates: linking to article on quantization (openssl)
 2014-03-05T07:45:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2014-03-05T19:53:00 - Minor doc updates: linking to article on quantization (openssl)
+2014-03-24T07:24:00 - Implementing approach from a new paper read last night (openssl)
