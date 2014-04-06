@@ -9,3 +9,4 @@
 2014-03-24T07:24:00 - Implementing approach from a new paper read last night (openssl)
 2014-03-24T04:31:00 - Minor doc updates: linking to article on quantization (openssl)
 2014-04-06T23:41:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
+2014-04-06T04:29:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
