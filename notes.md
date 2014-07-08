@@ -14,3 +14,4 @@
 2014-05-28T03:08:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
 2014-06-18T19:28:00 - Implementing approach from a new paper read last night (openssl)
 2014-07-08T17:27:00 - Implementing approach from a new paper read last night (openssl)
+2014-07-08T17:49:00 - Minor doc updates: linking to article on quantization (openssl)
