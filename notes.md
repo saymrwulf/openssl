@@ -18,3 +18,4 @@
 2014-07-08T17:56:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
 2014-07-08T17:31:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
 2014-08-15T18:18:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
+2014-09-09T02:24:00 - Quick fix, referencing a known issue from the official repo (openssl)
