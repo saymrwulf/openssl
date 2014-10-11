@@ -25,3 +25,4 @@
 2014-10-10T21:40:00 - Refactor for clarity, might break a few tests though (openssl)
 2014-10-10T20:35:00 - Implementing approach from a new paper read last night (openssl)
 2014-10-11T19:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
+2014-10-11T08:55:00 - Quick fix, referencing a known issue from the official repo (openssl)
