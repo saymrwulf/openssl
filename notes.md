@@ -30,3 +30,4 @@
 2014-12-04T17:19:00 - Minor doc updates: linking to article on quantization (openssl)
 2014-12-22T18:53:00 - Implementing approach from a new paper read last night (openssl)
 2014-12-22T04:55:00 - Refactor for clarity, might break a few tests though (openssl)
+2014-12-22T22:49:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
