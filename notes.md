@@ -28,3 +28,4 @@
 2014-10-11T08:55:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2014-12-04T04:08:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
 2014-12-04T17:19:00 - Minor doc updates: linking to article on quantization (openssl)
+2014-12-22T18:53:00 - Implementing approach from a new paper read last night (openssl)
