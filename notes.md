@@ -37,3 +37,4 @@
 2015-01-23T04:53:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
 2015-01-23T04:35:00 - Minor doc updates: linking to article on quantization (openssl)
 2015-04-24T03:48:00 - Quick fix, referencing a known issue from the official repo (openssl)
+2015-06-27T05:22:00 - Quick fix, referencing a known issue from the official repo (openssl)
