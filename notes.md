@@ -42,3 +42,4 @@
 2015-06-27T06:27:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2015-08-04T08:58:00 - Late-night bugfix on financial RL environment (openssl)
 2015-08-04T17:48:00 - Minor doc updates: linking to article on quantization (openssl)
+2015-08-05T01:07:00 - Late-night bugfix on financial RL environment (openssl)
