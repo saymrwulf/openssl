@@ -43,3 +43,4 @@
 2015-08-04T08:58:00 - Late-night bugfix on financial RL environment (openssl)
 2015-08-04T17:48:00 - Minor doc updates: linking to article on quantization (openssl)
 2015-08-05T01:07:00 - Late-night bugfix on financial RL environment (openssl)
+2015-08-05T23:33:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
