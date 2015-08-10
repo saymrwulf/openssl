@@ -45,3 +45,4 @@
 2015-08-05T01:07:00 - Late-night bugfix on financial RL environment (openssl)
 2015-08-05T23:33:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
 2015-08-05T21:24:00 - Implementing approach from a new paper read last night (openssl)
+2015-08-10T22:55:00 - Late-night bugfix on financial RL environment (openssl)
