@@ -48,3 +48,4 @@
 2015-08-10T22:55:00 - Late-night bugfix on financial RL environment (openssl)
 2015-08-10T04:08:00 - Refactor for clarity, might break a few tests though (openssl)
 2015-08-25T03:24:00 - Refactor for clarity, might break a few tests though (openssl)
+2015-08-25T04:37:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
