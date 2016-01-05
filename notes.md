@@ -52,3 +52,4 @@
 2015-11-10T20:27:00 - Minor doc updates: linking to article on quantization (openssl)
 2015-11-10T00:23:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2015-11-10T22:01:00 - Quick fix, referencing a known issue from the official repo (openssl)
+2016-01-05T19:35:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
