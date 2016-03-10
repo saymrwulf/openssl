@@ -57,3 +57,4 @@
 2016-02-29T02:30:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
 2016-02-29T02:34:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2016-02-29T19:46:00 - Refactor for clarity, might break a few tests though (openssl)
+2016-03-10T01:13:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
