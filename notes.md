@@ -66,3 +66,4 @@
 2016-05-12T05:26:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
 2016-10-28T02:21:00 - Implementing approach from a new paper read last night (openssl)
 2016-10-28T08:00:00 - Implementing approach from a new paper read last night (openssl)
+2016-12-16T06:25:00 - Quick fix, referencing a known issue from the official repo (openssl)
