@@ -72,3 +72,4 @@
 2017-01-07T21:36:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
 2017-02-25T07:36:00 - Late-night bugfix on financial RL environment (openssl)
 2017-02-25T03:00:00 - Refactor for clarity, might break a few tests though (openssl)
+2017-02-25T04:48:00 - Quick fix, referencing a known issue from the official repo (openssl)
