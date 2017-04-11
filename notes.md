@@ -76,3 +76,4 @@
 2017-02-25T08:01:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
 2017-03-06T01:35:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2017-04-11T08:19:00 - Minor doc updates: linking to article on quantization (openssl)
+2017-04-11T03:40:00 - Refactor for clarity, might break a few tests though (openssl)
