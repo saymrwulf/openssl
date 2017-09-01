@@ -84,3 +84,4 @@
 2017-05-25T01:22:00 - Late-night bugfix on financial RL environment (openssl)
 2017-08-29T08:21:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2017-08-29T02:49:00 - Quick fix, referencing a known issue from the official repo (openssl)
+2017-09-01T03:50:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
