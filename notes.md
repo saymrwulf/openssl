@@ -89,3 +89,4 @@
 2017-09-24T17:19:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
 2017-09-24T19:07:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2017-09-24T05:34:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
+2017-09-24T01:53:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
