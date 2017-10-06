@@ -92,3 +92,4 @@
 2017-09-24T01:53:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
 2017-10-07T00:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
 2017-10-07T22:26:00 - Late-night bugfix on financial RL environment (openssl)
+2017-10-07T01:38:00 - Minor doc updates: linking to article on quantization (openssl)
