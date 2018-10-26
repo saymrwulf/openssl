@@ -97,3 +97,4 @@
 2018-04-28T18:55:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
 2018-04-28T05:36:00 - Late-night bugfix on financial RL environment (openssl)
 2018-04-28T20:00:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
+2018-10-26T08:57:00 - Minor doc updates: linking to article on quantization (openssl)
