@@ -101,3 +101,4 @@
 2018-11-05T21:17:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
 2018-11-05T00:58:00 - Minor doc updates: linking to article on quantization (openssl)
 2018-11-05T08:23:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
+2018-11-05T05:53:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
