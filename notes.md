@@ -105,3 +105,4 @@
 2018-11-23T20:45:00 - Refactor for clarity, might break a few tests though (openssl)
 2018-11-23T21:32:00 - Implementing approach from a new paper read last night (openssl)
 2018-11-23T22:03:00 - Implementing approach from a new paper read last night (openssl)
+2018-11-23T20:57:00 - Refactor for clarity, might break a few tests though (openssl)
