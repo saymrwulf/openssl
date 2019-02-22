@@ -107,3 +107,4 @@
 2018-11-23T22:03:00 - Implementing approach from a new paper read last night (openssl)
 2018-11-23T20:57:00 - Refactor for clarity, might break a few tests though (openssl)
 2019-02-22T05:03:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
+2019-02-22T22:12:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
