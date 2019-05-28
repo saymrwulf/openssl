@@ -112,3 +112,4 @@
 2019-04-20T04:33:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
 2019-04-20T18:12:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
 2019-05-04T02:58:00 - Implementing approach from a new paper read last night (openssl)
+2019-05-28T02:30:00 - Refactor for clarity, might break a few tests though (openssl)
