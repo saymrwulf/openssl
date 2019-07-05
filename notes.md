@@ -116,3 +116,4 @@
 2019-07-02T03:10:00 - Late-night bugfix on financial RL environment (openssl)
 2019-07-02T23:06:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2019-07-05T23:21:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
+2019-07-05T07:29:00 - Late-night bugfix on financial RL environment (openssl)
