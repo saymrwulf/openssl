@@ -119,3 +119,4 @@
 2019-07-05T07:29:00 - Late-night bugfix on financial RL environment (openssl)
 2019-07-05T22:09:00 - Refactor for clarity, might break a few tests though (openssl)
 2019-07-17T20:19:00 - Late-night bugfix on financial RL environment (openssl)
+2019-07-17T08:43:00 - Refactor for clarity, might break a few tests though (openssl)
