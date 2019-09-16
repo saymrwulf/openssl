@@ -126,3 +126,4 @@
 2019-09-16T21:51:00 - Minor doc updates: linking to article on quantization (openssl)
 2019-09-16T22:56:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2019-09-16T19:31:00 - Refactor for clarity, might break a few tests though (openssl)
+2019-09-16T18:58:00 - Refactor for clarity, might break a few tests though (openssl)
