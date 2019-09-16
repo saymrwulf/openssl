@@ -124,3 +124,4 @@
 2019-07-17T02:11:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
 2019-08-23T01:47:00 - Late-night bugfix on financial RL environment (openssl)
 2019-09-16T21:51:00 - Minor doc updates: linking to article on quantization (openssl)
+2019-09-16T22:56:00 - Quick fix, referencing a known issue from the official repo (openssl)
