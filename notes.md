@@ -128,3 +128,4 @@
 2019-09-16T19:31:00 - Refactor for clarity, might break a few tests though (openssl)
 2019-09-16T18:58:00 - Refactor for clarity, might break a few tests though (openssl)
 2020-01-13T23:49:00 - Quick fix, referencing a known issue from the official repo (openssl)
+2020-01-13T22:11:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
