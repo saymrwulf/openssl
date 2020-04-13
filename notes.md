@@ -132,3 +132,4 @@
 2020-03-02T05:06:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2020-03-02T04:08:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
 2020-04-13T08:17:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
+2020-04-13T20:00:00 - Late-night bugfix on financial RL environment (openssl)
