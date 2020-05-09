@@ -135,3 +135,4 @@
 2020-04-13T20:00:00 - Late-night bugfix on financial RL environment (openssl)
 2020-04-13T23:44:00 - Late-night bugfix on financial RL environment (openssl)
 2020-05-09T06:40:00 - Refactor for clarity, might break a few tests though (openssl)
+2020-05-09T06:28:00 - Implementing approach from a new paper read last night (openssl)
