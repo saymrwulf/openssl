@@ -139,3 +139,4 @@
 2020-05-09T19:33:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2020-05-09T17:23:00 - Refactor for clarity, might break a few tests though (openssl)
 2020-09-06T05:24:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
+2020-11-16T00:02:00 - Quick fix, referencing a known issue from the official repo (openssl)
