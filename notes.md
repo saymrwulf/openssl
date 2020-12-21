@@ -146,3 +146,4 @@
 2020-12-14T18:54:00 - Refactor for clarity, might break a few tests though (openssl)
 2020-12-21T08:08:00 - Implementing approach from a new paper read last night (openssl)
 2020-12-21T20:30:00 - Implementing approach from a new paper read last night (openssl)
+2020-12-21T02:25:00 - Refactor for clarity, might break a few tests though (openssl)
