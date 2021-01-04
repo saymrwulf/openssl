@@ -151,3 +151,4 @@
 2021-01-04T01:17:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
 2021-01-04T05:03:00 - Minor doc updates: linking to article on quantization (openssl)
 2021-01-04T20:35:00 - Quick fix, referencing a known issue from the official repo (openssl)
+2021-01-04T08:25:00 - Quick fix, referencing a known issue from the official repo (openssl)
