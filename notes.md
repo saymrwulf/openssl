@@ -149,3 +149,4 @@
 2020-12-21T02:25:00 - Refactor for clarity, might break a few tests though (openssl)
 2020-12-21T00:28:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
 2021-01-04T01:17:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
+2021-01-04T05:03:00 - Minor doc updates: linking to article on quantization (openssl)
