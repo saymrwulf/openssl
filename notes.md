@@ -154,3 +154,4 @@
 2021-01-04T08:25:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2021-01-09T04:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
 2021-01-09T03:03:00 - Quick fix, referencing a known issue from the official repo (openssl)
+2021-01-09T01:40:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
