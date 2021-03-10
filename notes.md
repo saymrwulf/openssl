@@ -159,3 +159,4 @@
 2021-02-11T23:07:00 - Minor doc updates: linking to article on quantization (openssl)
 2021-02-11T04:18:00 - Late-night bugfix on financial RL environment (openssl)
 2021-03-10T03:38:00 - Minor doc updates: linking to article on quantization (openssl)
+2021-03-10T18:56:00 - Refactor for clarity, might break a few tests though (openssl)
