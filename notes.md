@@ -167,3 +167,4 @@
 2021-06-04T04:11:00 - Late-night bugfix on financial RL environment (openssl)
 2021-06-10T08:07:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
 2021-06-10T22:21:00 - Late-night bugfix on financial RL environment (openssl)
+2021-06-10T02:28:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
