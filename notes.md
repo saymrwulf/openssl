@@ -171,3 +171,4 @@
 2021-06-16T05:30:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2021-06-16T23:11:00 - Late-night bugfix on financial RL environment (openssl)
 2021-06-16T08:35:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
+2021-07-14T21:59:00 - Minor doc updates: linking to article on quantization (openssl)
