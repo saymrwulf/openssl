@@ -175,3 +175,4 @@
 2021-07-14T01:14:00 - Minor doc updates: linking to article on quantization (openssl)
 2021-07-14T04:13:00 - Implementing approach from a new paper read last night (openssl)
 2021-07-14T04:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
+2021-07-15T01:46:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
