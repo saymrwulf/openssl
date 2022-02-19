@@ -180,3 +180,4 @@
 2022-02-19T04:08:00 - Late-night bugfix on financial RL environment (openssl)
 2022-02-19T22:38:00 - Refactor for clarity, might break a few tests though (openssl)
 2022-02-19T01:30:00 - Refactor for clarity, might break a few tests though (openssl)
+2022-02-19T17:55:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
