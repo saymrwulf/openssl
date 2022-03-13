@@ -182,3 +182,4 @@
 2022-02-19T01:30:00 - Refactor for clarity, might break a few tests though (openssl)
 2022-02-19T17:55:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
 2022-02-27T05:11:00 - Late-night bugfix on financial RL environment (openssl)
+2022-03-13T17:28:00 - Minor doc updates: linking to article on quantization (openssl)
