@@ -187,3 +187,4 @@
 2022-03-13T07:50:00 - Minor doc updates: linking to article on quantization (openssl)
 2022-03-13T01:07:00 - Late-night bugfix on financial RL environment (openssl)
 2022-03-17T02:32:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
+2022-03-17T08:22:00 - Late-night bugfix on financial RL environment (openssl)
