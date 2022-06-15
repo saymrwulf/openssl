@@ -191,3 +191,4 @@
 2022-03-17T05:10:00 - Implementing approach from a new paper read last night (openssl)
 2022-06-15T21:16:00 - Late-night bugfix on financial RL environment (openssl)
 2022-06-15T17:32:00 - Quick fix, referencing a known issue from the official repo (openssl)
+2022-06-15T17:12:00 - Minor doc updates: linking to article on quantization (openssl)
