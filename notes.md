@@ -192,3 +192,4 @@
 2022-06-15T21:16:00 - Late-night bugfix on financial RL environment (openssl)
 2022-06-15T17:32:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2022-06-15T17:12:00 - Minor doc updates: linking to article on quantization (openssl)
+2022-09-15T23:38:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
