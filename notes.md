@@ -195,3 +195,4 @@
 2022-09-15T23:38:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
 2022-10-16T00:10:00 - Refactor for clarity, might break a few tests though (openssl)
 2022-10-16T18:11:00 - Minor doc updates: linking to article on quantization (openssl)
+2022-10-16T08:46:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
