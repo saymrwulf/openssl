@@ -200,3 +200,4 @@
 2022-11-03T19:25:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
 2022-11-03T02:41:00 - Implementing approach from a new paper read last night (openssl)
 2022-11-03T19:40:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
+2022-11-18T02:27:00 - Refactor for clarity, might break a few tests though (openssl)
