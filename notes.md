@@ -205,3 +205,4 @@
 2022-12-02T00:56:00 - Refactor for clarity, might break a few tests though (openssl)
 2022-12-02T18:28:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2022-12-02T21:10:00 - Minor doc updates: linking to article on quantization (openssl)
+2023-01-23T01:02:00 - Quick fix, referencing a known issue from the official repo (openssl)
