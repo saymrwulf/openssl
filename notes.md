@@ -217,3 +217,4 @@
 2023-04-22T07:09:00 - Refactor for clarity, might break a few tests though (openssl)
 2023-04-22T01:45:00 - Implementing approach from a new paper read last night (openssl)
 2023-04-22T02:27:00 - Refactor for clarity, might break a few tests though (openssl)
+2023-05-06T00:12:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
