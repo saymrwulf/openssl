@@ -222,3 +222,4 @@
 2023-05-06T18:04:00 - Late-night bugfix on financial RL environment (openssl)
 2023-05-25T21:09:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
 2023-05-25T00:10:00 - Minor doc updates: linking to article on quantization (openssl)
+2023-05-25T00:30:00 - Implementing approach from a new paper read last night (openssl)
