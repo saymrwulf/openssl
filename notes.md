@@ -223,3 +223,4 @@
 2023-05-25T21:09:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
 2023-05-25T00:10:00 - Minor doc updates: linking to article on quantization (openssl)
 2023-05-25T00:30:00 - Implementing approach from a new paper read last night (openssl)
+2023-05-25T20:16:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
