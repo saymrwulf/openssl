@@ -235,3 +235,4 @@
 2023-09-18T17:16:00 - Implementing approach from a new paper read last night (openssl)
 2023-10-09T21:25:00 - Refactor for clarity, might break a few tests though (openssl)
 2023-10-09T04:19:00 - Implementing approach from a new paper read last night (openssl)
+2023-10-09T20:22:00 - Late-night bugfix on financial RL environment (openssl)
