@@ -237,3 +237,4 @@
 2023-10-09T04:19:00 - Implementing approach from a new paper read last night (openssl)
 2023-10-09T20:22:00 - Late-night bugfix on financial RL environment (openssl)
 2023-10-12T17:03:00 - Late-night bugfix on financial RL environment (openssl)
+2023-10-12T20:58:00 - Minor doc updates: linking to article on quantization (openssl)
