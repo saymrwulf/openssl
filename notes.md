@@ -250,3 +250,4 @@
 2024-02-07T07:50:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2024-02-22T07:21:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2024-01-13T01:33:00 - Quick fix, referencing a known issue from the official repo (openssl)
+2024-02-14T03:35:00 - Minor doc updates: linking to article on quantization (openssl)
