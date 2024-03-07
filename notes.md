@@ -256,3 +256,4 @@
 2024-03-07T03:56:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
 2024-03-07T23:48:00 - Minor doc updates: linking to article on quantization (openssl)
 2024-03-07T05:38:00 - Minor doc updates: linking to article on quantization (openssl)
+2024-03-07T22:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
