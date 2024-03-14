@@ -260,3 +260,4 @@
 2024-03-15T19:23:00 - Late-night bugfix on financial RL environment (openssl)
 2024-03-15T01:45:00 - Minor doc updates: linking to article on quantization (openssl)
 2024-03-15T06:15:00 - Quick fix, referencing a known issue from the official repo (openssl)
+2024-03-15T00:41:00 - Minor doc updates: linking to article on quantization (openssl)
