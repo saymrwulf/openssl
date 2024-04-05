@@ -262,3 +262,4 @@
 2024-03-15T06:15:00 - Quick fix, referencing a known issue from the official repo (openssl)
 2024-03-15T00:41:00 - Minor doc updates: linking to article on quantization (openssl)
 2024-04-05T01:31:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
+2024-04-05T06:46:00 - Quick fix, referencing a known issue from the official repo (openssl)
