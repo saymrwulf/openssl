@@ -266,3 +266,4 @@
 2024-04-05T05:54:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
 2024-05-31T22:26:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
 2024-05-31T17:00:00 - Implementing approach from a new paper read last night (openssl)
+2024-07-13T20:22:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
