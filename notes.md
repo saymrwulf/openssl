@@ -271,3 +271,4 @@
 2024-07-13T04:15:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
 2024-07-13T20:57:00 - Refactor for clarity, might break a few tests though (openssl)
 2024-12-07T19:43:00 - Quick fix, referencing a known issue from the official repo (openssl)
+2024-12-07T01:21:00 - Implementing approach from a new paper read last night (openssl)
