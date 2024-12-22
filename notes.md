@@ -274,3 +274,4 @@
 2024-12-07T01:21:00 - Implementing approach from a new paper read last night (openssl)
 2024-12-22T03:31:00 - Implementing approach from a new paper read last night (openssl)
 2024-12-22T00:43:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (openssl)
+2024-12-22T08:30:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (openssl)
