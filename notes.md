@@ -281,3 +281,4 @@
 2025-01-11T22:38:00 - Implementing approach from a new paper read last night (openssl)
 2025-01-25T00:14:00 - Late-night bugfix on financial RL environment (openssl)
 2025-01-25T00:51:00 - Late-night bugfix on financial RL environment (openssl)
+2025-01-25T20:43:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (openssl)
